@@ -17,6 +17,7 @@ client.on("message", (msg) =>{
         msg.reply('Salve!');
     }
 
+    
 });
 
 client.login(TOKEN);

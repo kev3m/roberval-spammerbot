@@ -19,6 +19,12 @@ client.on("ready",() => {
     console.log('Funcionando pae!');
 });
 
+//Bot status
+client.on("ready",() => {
+    console.log('Funcionando pae!');
+    client.user.setActivity('Salve meu querido🐓, o prefixo do bot é: r!. Use com moderação(ou não).', {type: "PLAYING"}).catch(console.error)
+});
+
 client.on("message", (msg) =>{
     if(msg.content.toLowerCase() === "Oie".toLowerCase()) {
         msg.reply('Salve!');

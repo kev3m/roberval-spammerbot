@@ -9,7 +9,6 @@
 ## Coppypastas 🧾
 
 
-
 | Comando | Descrição  | 
 |--|--|
 | burro | Pegou alguém fazendo burrada? Explane-o.  |
@@ -18,6 +17,16 @@
 |mods|Destile seu ódio contra a moderação incompetente. |
 |japa|Xing Xing Xong! Nome em japônes não dá né.|
 |detecgostosa|👨🏻‍✈️DETECTOR DE GOSTOSA👨🏻‍✈️|
+|apagapls|Apaga por favor.|
+|dica|Dedicado aos conselheiros de plantão.|
+|egipcio|Para pessoas com o teclado egípcio quebrado.|
+|freefas|NÃO FALE MAL DO MEU FREEFIRE 😡|
+|lacre|Lacrou em mana!✨|
+|mulherperfeita|Simplesmente o cronograma da mulher dos seus sonhos.|
+|sogra|Projeto - Minha mãe quer ser sua sogra.
+|vaidormir|Vai dormir vaqueiro... Elá já está cavalgando em outro. 🐮|
+|menamora|Certificado de desespero|
+
 
 ## ASCIIs 🎋
 > ❌ Ok, a maioria dos comandos aqui são NSFW, pense antes de mandar.

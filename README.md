@@ -1,7 +1,7 @@
 # Roberval 🐓 - Spammer Bot 
 *Who let the chickens out?*
 
-**Bot dedicado ao envio de desenhos ASCII e copypastas utilizadas em streams de qualidade duvidosa na plataforma roxa.**
+**Bot dedicado ao envio de desenhos ASCII e copypastas utilizados em streams de qualidade duvidosa na plataforma roxa.**
 
 # Lista de comandos
 >Oie, essa é a lista de comandos do bot. Faça bom proveito 🐓.
